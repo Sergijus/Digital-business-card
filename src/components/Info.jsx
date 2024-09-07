@@ -9,7 +9,14 @@ export default function Info() {
         <h2 className="info--name">Srdjan Marinkovic</h2>
         <h3 className="info--title">Frontend developer wannabe</h3>
         <h4 className="info--company">@elementor.com</h4>
-        <button className="info--button">Website</button>
+        <a
+          role="button"
+          className="info--button"
+          href="https://srdjanm.com"
+          target="_blank"
+        >
+          Website
+        </a>
       </div>
     </div>
   );

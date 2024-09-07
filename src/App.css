@@ -41,11 +41,14 @@
   font-size: 14px;
   font-weight: 400;
   color: #ffffff;
+  margin-bottom: 20px;
 }
 
-.info .info--button {
+.info--button {
   background-color: #ffffff;
   color: #1a1b21;
+  padding: 12px 20px;
+  border-radius: 8px;
 }
 
 .main {
